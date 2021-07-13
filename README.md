@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Belal Al Droubi
+- I work as a Doctor (I love kids so I wanna go into Peds :D)
+- 👀 I’m interested in Machine Learning and how it can be integrated in academic research and clinical practice to help perfect the diagnosis and treatment, in order to reach the healthcare of the future we all wish to have
+- 🌱 I’m currently learning: Python, R, Dart and Flutter
+- 📫 How to reach me: Bilalaldroubi@Hotmail.com
